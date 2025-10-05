@@ -57,7 +57,7 @@ const messages = [
     "Are you sure?",
     "Really sure??",
     "Are you positive?",
-    "Lala please...",
+    "Lala please TT...",
     "Just think about it!",
     "If you say no, I will be really sad...",
     "I will be very sad...",
